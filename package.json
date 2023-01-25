@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "node-event-emitter-example",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "stackblitz": {
+    "startCommand": "npm start"
+  }
+}
